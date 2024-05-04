@@ -15,7 +15,7 @@ import (
 )
 
 var NotFoundMessage = map[string]string{
-	"error": "Frames not found. Navigate to /list for list of frames. Navigate to https://github.com/hugomd/ascii-live to submit new frames.",
+	"error": "FUCK YOU",
 }
 
 var NotCurledMessage = map[string]string{
